@@ -4,7 +4,7 @@
 
 // Group members: Zak El-Assaad, Michael Liang
 
-const short int OP_SYS = 1; // Set to 1 when using windows, 0 when using Unix
+const short int OP_SYS = 0; // Set to 1 when using windows, 0 when using Unix
 
 
 struct Expense {
