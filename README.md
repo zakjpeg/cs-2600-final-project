@@ -1,5 +1,5 @@
 To use:
 
-Create an "expenses.txt" file in the same directory as cspend.c
+update the operating system variable in cspend.c (it's named OP_SYS)
 
-run cspend.c
+compile and run cspend.c
